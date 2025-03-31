@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Gustavo Câmara
 
-<!--
-**CamaraHacks/camarahacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **desenvolvedor backend** apaixonado por criar soluções escaláveis e eficientes. Com experiência em **Python, C, typescript e Go**, atuo em todo o ciclo de desenvolvimento de software, desde a concepção até a entrega, utilizando boas práticas de versionamento e automação.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+Atualmente, trabalho como **Analista de Infraestrutura**, onde desenvolvo **APIs RESTful com Flask**, implemento automações com Python e realizo deploys em cloud utilizando containers. Busco sempre otimizar processos e melhorar a segurança e escalabilidade das aplicações.
+
+Recentemente, estou aprimorando minhas habilidades através do **Bootcamp BootDev**, focando em **desenvolvimento backend**, novas ferramentas e frameworks para expandir ainda mais meu conhecimento na área de software. Para entender mais sobre o programa e o que eu estou estudando, você pode ver a trilha aqui: [BootDev Backend Track](https://www.boot.dev/tracks/backend)
+
+**AHHH, eu quase esqueci de mencionar que eu uso Arch como OS rsrs**  
+
+## 📌 Projetos em Destaque  
+🔹 [**Monitoramento de Hosts no Zabbix**](#) - API REST em Python para monitoramento de servidores via Zabbix.  
+🔹 [**Automação de Deploys**](#) - Script Python + GitHub Actions para CI/CD simplificado em aplicações Flask.  
+🔹 [**API REST para Gerenciamento de Usuários**](#) - API em Flask + PostgreSQL com autenticação JWT.  
+
+## 📫 Contato  
+📧 E-mail: [gustavo-camara@outlook.com](mailto:gustavo-camara@outlook.com)  
+🔗 [LinkedIn](https://linkedin.com/in/camarahacks) | [GitHub](https://github.com/CamaraHacks)  
+
+Sinta-se à vontade para explorar meus repositórios e contribuir! 🚀
