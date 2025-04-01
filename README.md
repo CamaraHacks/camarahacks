@@ -11,7 +11,7 @@ Recentemente, estou aprimorando minhas habilidades através do **Bootcamp BootDe
 **AHHH, eu quase esqueci de mencionar que eu uso Arch como OS rsrs**  
 
 ## 📌 Projetos em Destaque  
-🔹 [**Monitoramento de Hosts no Zabbix**](#https://github.com/CamaraHacks/Zabbix_MSG_Alert_EvoAPI) - API REST em Python para monitoramento de servidores via Zabbix.  
+🔹 [**Monitoramento de Hosts no Zabbix**](https://github.com/CamaraHacks/Zabbix_MSG_Alert_EvoAPI) - API REST em Python para monitoramento de servidores via Zabbix.  
 🔹 [**Automação de Deploys**](#) - Script Python + GitHub Actions para CI/CD simplificado em aplicações Flask.  
 🔹 [**API REST para Gerenciamento de Usuários**](#) - API em Flask + PostgreSQL com autenticação JWT.  
 
