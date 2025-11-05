@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gustavo Camara 👋</h1>
-<h3 align="center">Desenvolvedor Backend | Automação de Sistemas & CI/CD</h3>
+<h3 align="center">Desenvolvedor Backend </h3>
 
 <br>
 
@@ -67,8 +67,8 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
 
 <div align="center">
   <a href="https://github.com/SEU-USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camarahacks&show_icons=true&theme=solarized&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camarahacks&layout=compact&langs_count=8&theme=solarized"/>
   </a>
 </div>
 
