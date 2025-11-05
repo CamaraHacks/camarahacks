@@ -11,10 +11,6 @@ Atualmente, trabalho na ferrovia interna do Porto de Santos, onde foco em otimiz
 
 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando **Engenharia de Software**, com foco em Arquitetura Limpa, Padrões de Design, TDD e Microserviços.
 
-- 🔭 Atualmente trabalhando para otimizar processos de deployment com Docker e GitHub Actions.
-- 🌱 Focando em metodologias como TDD e DDD para escrever códigos mais limpos e robustos.
-- 💬 Sinta-se à vontade para perguntar sobre Python, FastAPI, Docker ou práticas de DevOps.
-
 <br>
 
 ## 🛠️ Meu Stack de Tecnologias
@@ -25,13 +21,13 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
   <tr>
     <td valign="top"><strong>Linguagens & Frameworks</strong></td>
     <td>
-      <code>Python</code> <code>FastAPI</code> <code>Django</code> <code>JavaScript</code> <code>Node.js</code> <code>React</code> [cite: 3]
+      <code>Python</code> <code>FastAPI</code> <code>Django</code> <code>JavaScript</code> <code>Node.js</code> <code>React</code> 
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>Bancos de Dados</strong></td>
     <td>
-      <code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> [cite: 3]
+      <code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> 
     </td>
   </tr>
   <tr>
@@ -49,7 +45,7 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
   <tr>
     <td valign="top"><strong>Cloud</strong></td>
     <td>
-      <code>AWS</code> <code>Azure</code> <code>OCI</code> <code>GCP</code> [cite: 3]
+      <code>AWS</code> <code>Azure</code> <code>OCI</code> <code>GCP</code> 
     </td>
   </tr>
 </table>
@@ -65,19 +61,16 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/camarahacks">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camarahacks&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camarahacks&layout=compact&langs_count=8&theme=solarized"/>
-  </a>
-</div>
+![camarahacks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camarahacks&theme=solarized-dark&show_icons=true&hide_border=false&layout=compact)
+<br>
+![camarahacks's Stats](https://github-readme-stats.vercel.app/api?username=camarahacks&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true)
 
 <br>
 
 ## 📫 Conecte-se comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/camarahacks/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:gustavo-camata@outlook.com" target="_blank">
