@@ -65,7 +65,7 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
 
 ![camarahacks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camarahacks&theme=dark&show_icons=true&hide_border=false&layout=compact)
 <br>
-![camarahacks's Stats](https://github-readme-stats.vercel.app/api?username=camarahacks&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
 
 <br>
 
