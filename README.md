@@ -1,6 +1,7 @@
-<h1 align="center">Olá, bem vindo ao meu repositório GIT</h1>
-<h2>Gustavo Câmara </h2>
-<h3 align="center">Desenvolvedor Backend </h3>
+
+<h1 align="center">Gustavo Câmara - Desenvolvedor Backend </h1>
+<h2 align="center">Olá, bem vindo ao meu repositório GIT</h2>
+
 
 <br>
 
