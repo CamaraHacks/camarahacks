@@ -58,8 +58,8 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
 
 ## 🚀 Alguns Projetos
 
--**Sistema de Gerenciamento de Inventário:** Desenvolvi um sistema interno para uma loja de produtos naturais, com suporte multiusuário (dono e vendedores), autenticação, controle de acesso baseado em função e uma interface web amigável.
--**Sistema de Gerenciamento de Biblioteca:** Aplicação web acadêmica dividida em duas camadas (JSP para cadastro e JSF para gerenciamento), com listagem, busca, exclusão e tratamento de erros.
+- **Sistema de Gerenciamento de Inventário:** Desenvolvi um sistema interno para uma loja de produtos naturais, com suporte multiusuário (dono e vendedores), autenticação, controle de acesso baseado em função e uma interface web amigável.
+- **Sistema de Gerenciamento de Biblioteca:** Aplicação web acadêmica dividida em duas camadas (JSP para cadastro e JSF para gerenciamento), com listagem, busca, exclusão e tratamento de erros.
 
 <br>
 
@@ -67,7 +67,7 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
 
 <div align="center">
   <a href="https://github.com/camarahacks">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camarahacks&show_icons=true&theme=solarized&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camarahacks&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camarahacks&layout=compact&langs_count=8&theme=solarized"/>
   </a>
 </div>
