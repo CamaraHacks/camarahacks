@@ -66,7 +66,7 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/SEU-USERNAME">
+  <a href="https://github.com/camarahacks">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camarahacks&show_icons=true&theme=solarized&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camarahacks&layout=compact&langs_count=8&theme=solarized"/>
   </a>
