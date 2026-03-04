@@ -1,82 +1,40 @@
+# Gustavo Câmara — Backend Developer
 
-<h1 align="center">Gustavo Câmara - Desenvolvedor Backend </h1>
-<h2 align="center">Olá, bem vindo ao meu repositório GIT</h2>
+Desenvolvedor backend em transição, com background em infraestrutura crítica ferroviária. Construo sistemas que funcionam em produção — não só em localhost.
 
+Atualmente trabalhando na ferrovia interna do Porto de Santos, onde desenvolvo automações e atuo como ponto focal entre negócio e tecnologia.
 
-<br>
+---
 
-## 👨‍💻 Sobre Mim
+## Stack
 
-Eu sou um Desenvolvedor Backend focado em **Python & Go**, com experiência em automação de sistemas, construção de APIs RESTful e otimização de pipelines CI/CD.
+**Sólido:**
+`Python` `Django` `Docker` `PostgreSQL` `Linux` `Git` `Zabbix`
 
-Atualmente, trabalho na ferrovia interna do Porto de Santos, onde foco em otimizar operações e infraestrutura. Minha principal contribuição foi o desenvolvimento de integrações (usando Python e JSON-RPC) que automatizaram alertas e **reduziram o tempo de resposta a incidentes em 30%**.
+**Em desenvolvimento:**
+`FastAPI` `GitHub Actions` `AWS EC2`
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando **Engenharia de Software**, com foco em Arquitetura Limpa, Padrões de Design, TDD e Microserviços.
+---
 
-<br>
+## Projetos
 
-## 🛠️ Meu Stack de Tecnologias
+**[AnyTask](link do repo)** — Todo app com autenticação, autorização por usuário, PostgreSQL e testes unitários.
+`Django` `PostgreSQL` `Docker` `pytest`
 
-Meu conjunto de ferramentas inclui, mas não se limita a:
+**[Zabbix WhatsApp Integration](link do repo)** — Automação de alertas críticos via Zabbix + WhatsApp usando Python e JSON-RPC. Reduz tempo de resposta a incidentes operacionais.
+`Python` `Zabbix` `JSON-RPC` `Docker`
 
-<table>
-  <tr>
-    <td valign="top"><strong>Linguagens & Frameworks</strong></td>
-    <td>
-      <code>Python</code> <code>Go</code> <code>FastAPI</code> <code>Django</code> <code>JavaScript</code> <code>Node.js</code> <code>React</code> 
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Bancos de Dados</strong></td>
-    <td>
-      <code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> 
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>DevOps & Ferramentas</strong></td>
-    <td>
-      <code>Docker</code> <code>Git</code> <code>GitHub Actions</code> <code>Zabbix</code> <code>Postman</code> <code>Swagger</code> [cite: 3]
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Princípios & Metodologias</strong></td>
-    <td>
-      <code>APIs REST</code> <code>JSON-RPC</code> <code>SOLID</code> <code>TDD</code> <code>DDD</code> <code>Agile</code> <code>Scrum</code> [cite: 3]
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Cloud</strong></td>
-    <td>
-      <code>AWS</code> <code>Azure</code> <code>OCI</code> <code>GCP</code> 
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## Formação
 
-## 🚀 Alguns Projetos
+- Análise e Desenvolvimento de Sistemas — Cesumar (GPA 9)
+- Engenharia de Software — em andamento
 
-- **Zabbix Alert Integration:** Ferramenta de automação (usando Python e JSON-RPC) para envio de alertas críticos, reduzindo drasticamente o tempo de resposta a incidentes operacionais.
-- **Sistema de Gerenciamento de Inventário:** Desenvolvi um sistema interno para uma loja de produtos naturais, com suporte multiusuário (dono e vendedores), autenticação, controle de acesso baseado em função e uma interface web amigável.
-- **Sistema de Gerenciamento de Biblioteca:** Aplicação web acadêmica dividida em duas camadas (JSP para cadastro e JSF para gerenciamento), com listagem, busca, exclusão e tratamento de erros.
+---
 
-<br>
+## Contato
 
-## 📊 Estatísticas do GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camarahacks/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo-camata@outlook.com)
 
-![camarahacks's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camarahacks&theme=dark&show_icons=true&hide_border=false&layout=compact)
-<br>
-
-
-<br>
-
-## 📫 Conecte-se comigo
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/camarahacks/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gustavo-camata@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-</div>
