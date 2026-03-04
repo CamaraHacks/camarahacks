@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Eu sou um Desenvolvedor Backend com experiência em automação de sistemas, construção de APIs RESTful e otimização de pipelines CI/CD.
+Eu sou um Desenvolvedor Backend focado em **Python & Go**, com experiência em automação de sistemas, construção de APIs RESTful e otimização de pipelines CI/CD.
 
 Atualmente, trabalho na ferrovia interna do Porto de Santos, onde foco em otimizar operações e infraestrutura. Minha principal contribuição foi o desenvolvimento de integrações (usando Python e JSON-RPC) que automatizaram alertas e **reduziram o tempo de resposta a incidentes em 30%**.
 
@@ -23,7 +23,7 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
   <tr>
     <td valign="top"><strong>Linguagens & Frameworks</strong></td>
     <td>
-      <code>Python</code> <code>FastAPI</code> <code>Django</code> <code>JavaScript</code> <code>Node.js</code> <code>React</code> 
+      <code>Python</code> <code>Go</code> <code>FastAPI</code> <code>Django</code> <code>JavaScript</code> <code>Node.js</code> <code>React</code> 
     </td>
   </tr>
   <tr>
@@ -56,6 +56,7 @@ Meu conjunto de ferramentas inclui, mas não se limita a:
 
 ## 🚀 Alguns Projetos
 
+- **Zabbix Alert Integration:** Ferramenta de automação (usando Python e JSON-RPC) para envio de alertas críticos, reduzindo drasticamente o tempo de resposta a incidentes operacionais.
 - **Sistema de Gerenciamento de Inventário:** Desenvolvi um sistema interno para uma loja de produtos naturais, com suporte multiusuário (dono e vendedores), autenticação, controle de acesso baseado em função e uma interface web amigável.
 - **Sistema de Gerenciamento de Biblioteca:** Aplicação web acadêmica dividida em duas camadas (JSP para cadastro e JSF para gerenciamento), com listagem, busca, exclusão e tratamento de erros.
 
