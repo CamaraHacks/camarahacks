@@ -1,7 +1,5 @@
 # Gustavo Câmara — Backend Developer
 
-Desenvolvedor backend em transição, com background em infraestrutura crítica ferroviária. Construo sistemas que funcionam em produção — não só em localhost.
-
 Atualmente trabalhando na ferrovia interna do Porto de Santos, onde desenvolvo automações e atuo como ponto focal entre negócio e tecnologia.
 
 ---
