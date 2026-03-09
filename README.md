@@ -16,10 +16,10 @@ Atualmente trabalhando na ferrovia interna do Porto de Santos, onde desenvolvo a
 
 ## Projetos
 
-**[AnyTask](link do repo)** — Todo app com autenticação, autorização por usuário, PostgreSQL e testes unitários.
+**[AnyTask] https://github.com/CamaraHacks/todoapp** — Todo app com autenticação, autorização por usuário, PostgreSQL e testes unitários.
 `Django` `PostgreSQL` `Docker` `pytest`
 
-**[Zabbix WhatsApp Integration](link do repo)** — Automação de alertas críticos via Zabbix + WhatsApp usando Python e JSON-RPC. Reduz tempo de resposta a incidentes operacionais.
+**[Zabbix WhatsApp Integration] https://github.com/CamaraHacks/railway_API** — Automação de alertas críticos via Zabbix + WhatsApp usando Python e JSON-RPC. Reduz tempo de resposta a incidentes operacionais.
 `Python` `Zabbix` `JSON-RPC` `Docker`
 
 ---
