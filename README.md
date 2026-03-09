@@ -7,12 +7,8 @@ Atualmente trabalhando na ferrovia interna do Porto de Santos, onde desenvolvo a
 ## Stack
 
 **Sólido:**
-`Python` `Django` `Docker` `PostgreSQL` `Linux` `Git` `Zabbix`
+`Python` `Django` `Docker` `PostgreSQL` `Linux` `Git` `Zabbix` `FastAPI` `GitHub Actions` `AWS EC2`
 
-**Em desenvolvimento:**
-`FastAPI` `GitHub Actions` `AWS EC2`
-
----
 
 ## Projetos
 
