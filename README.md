@@ -6,7 +6,7 @@ Atualmente trabalhando na ferrovia interna do Porto de Santos, onde desenvolvo a
 
 ## Stack
 
-**Sólido:**
+**Minha stack:**
 `Python` `Django` `Docker` `PostgreSQL` `Linux` `Git` `Zabbix` `FastAPI` `GitHub Actions` `AWS EC2`
 
 
