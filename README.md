@@ -1,34 +1,44 @@
-# Gustavo Câmara — Backend Developer
+# 0xGustavo
 
-Atualmente trabalhando na ferrovia interna do Porto de Santos, onde desenvolvo automações e atuo como ponto focal entre negócio e tecnologia.
+**SRE Enthusiast | Systems Tinkerer | Linux Kernel Hobbyist**
 
----
-
-## Stack
-
-**Minha stack:**
-`Python` `Django` `Docker` `PostgreSQL` `Linux` `Git` `Zabbix` `FastAPI` `GitHub Actions` `AWS EC2`
-
-
-## Projetos
-
-**[AnyTask] https://github.com/CamaraHacks/todoapp** — Todo app com autenticação, autorização por usuário, PostgreSQL e testes unitários.
-`Django` `PostgreSQL` `Docker` `pytest`
-
-**[Zabbix WhatsApp Integration] https://github.com/CamaraHacks/railway_API** — Automação de alertas críticos via Zabbix + WhatsApp usando Python e JSON-RPC. Reduz tempo de resposta a incidentes operacionais.
-`Python` `Zabbix` `JSON-RPC` `Docker`
+*"If it's not broken, you haven't tinkered with it enough."*
 
 ---
 
-## Formação
-
-- Análise e Desenvolvimento de Sistemas — Cesumar (GPA 9)
-- Engenharia de Software — em andamento
+### 🌐 Digital Garden
+Escrevo sobre minhas explorações técnicas, configurações de Arch e o que mais eu decidir quebrar no meu laboratório pessoal:
+👉 **[camarahacks.github.io/blog](https://camarahacks.github.io/blog)**
 
 ---
 
-## Contato
+### 🛠️ Lab Environment
+Atualmente operando em um ambiente complexos. Meu foco não é apenas usar o sistema, mas entender as camadas entre a CPU e o usuário.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camarahacks/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo-camata@outlook.com)
+- 🧩 **Explorando:** Observabilidade de baixo nível via `/proc`, syscalls de rede e a seguranças do kernel.
+- 🐚 **Shell:** Compilando minhas próprias ferramentas e depurando comportamentos do sistema em VMs.
+- ⚡ **Workflow:** Neovim + Obsidian + Uma dose saudável de cinismo sobre o "Software 3.0".
 
+---
+
+### 🧪 Current Lab Experiments
+
+- **[Sentinel-Project]** — Tentando ler a alma do Linux através do filesystem `/proc`. Desenvolvido em Go para ser rápido, leve e determinístico.
+---
+
+### 🔧 Hard Skills (The Toolbox)
+
+- **Linguagens:** Go, Python, C e o ocasional "quase entendi" Rust.
+- **Sistemas:** Deep Dive em Linux Internals, Docker (as a sandbox) e Networking.
+- **Monitoramento:** Zabbix (The Old Reliable), Prometheus e stacks de observabilidade.
+
+---
+
+### 📎 Connection
+Atualmente atuo como **Analista de Sistemas** em infraestruturas críticas, garantindo que o mundo real não pare enquanto eu tento compilar kernels no meu tempo livre.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camarahacks/)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=microsoft-outlook)](mailto:gustavo-camara@outlook.com)
+
+---
+*"The machine does not have a spirit. It has a state machine. I prefer the state machine."*
